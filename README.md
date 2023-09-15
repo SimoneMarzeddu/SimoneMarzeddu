@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SimoneMarzeddu&label=Profile%20views&color=0e75b6&style=flat" alt="Simone Marzeddu" /> </p>
 
 Brief recap of my current activity:
+- :video_game: Game Designer
 - 🎓 MSc student in <b>Artificial Intelligence</b> @<a href='https://didattica.di.unipi.it/en/master-programme-in-computer-science/curricula-2/curriculum-%c2%93artificial-intelligence%c2%94-2/' target="_blank">University of Pisa</a>.
-- :video_game:
 
 ### Contact
 - Institutional(University of Pisa) email: <a href= "mailto:s.marzeddu@studenti.unipi.it" target="_blank">s.marzeddu@studenti.unipi.it</a>
