@@ -6,7 +6,8 @@ Brief recap of my current activity:
 - 🎓 MSc student in <b>Artificial Intelligence</b> @<a href='https://didattica.di.unipi.it/en/master-programme-in-computer-science/curricula-2/curriculum-%c2%93artificial-intelligence%c2%94-2/' target="_blank">University of Pisa</a>.
 
 ### Contact
-- Institutional email: <a href= "mailto:s.marzeddu@studenti.unipi.it" target="_blank">s.marzeddu@studenti.unipi.it</a>
+- Institutional(University of Pisa) email: <a href= "mailto:s.marzeddu@studenti.unipi.it" target="_blank">s.marzeddu@studenti.unipi.it</a>
+- Main email: <a href= "mailto:marzeddusimone@gmail.com" target="_blank">marzeddusimone@gmail.com</a>
 - Linkedin: <a href='https://www.linkedin.com/in/simone-marzeddu-6b5042285' target="_blank">Simone Marzeddu</a>
 
 <!-- STATISTICS --
