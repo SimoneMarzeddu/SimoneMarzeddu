@@ -43,7 +43,7 @@ Brief recap of my current activity:
 
 <!-- LANGUAGES -->
 <a href="https://github.com/SimoneMarzeddu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneMarzeddu&layout=compact&theme=calm&hide=jupyter%20,CMake,shell,TeX,Makefile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneMarzeddu&layout=compact&theme=calm&hide=jupyter%20,CMake,shell,TeX,Makefile,ASP.NET,HTML" />
 </a>
 
 
