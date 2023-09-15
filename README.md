@@ -4,6 +4,7 @@
 
 Brief recap of my current activity:
 - 🎓 MSc student in <b>Artificial Intelligence</b> @<a href='https://didattica.di.unipi.it/en/master-programme-in-computer-science/curricula-2/curriculum-%c2%93artificial-intelligence%c2%94-2/' target="_blank">University of Pisa</a>.
+- :video_game:
 
 ### Contact
 - Institutional(University of Pisa) email: <a href= "mailto:s.marzeddu@studenti.unipi.it" target="_blank">s.marzeddu@studenti.unipi.it</a>
